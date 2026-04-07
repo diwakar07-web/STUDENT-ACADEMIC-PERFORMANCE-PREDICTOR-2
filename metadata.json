@@ -1,0 +1,5 @@
+{
+  "name": "Student Performance Dataset Gen",
+  "description": "Generates a realistic synthetic dataset for predicting student academic performance using regression.",
+  "requestFramePermissions": []
+}
